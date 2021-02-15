@@ -13,3 +13,6 @@ Game:
 Mercado:
   Neste projeto, foi feito toda a programação de um mercado, nele é possivel cadastrar produtos, visualizar produtos, adicionar produtos no carrinho, visualizar produtos no carrinho e fechar a compra.
   Regras de validações e um formatador de preços foi implementado no projeto.
+
+Banco:
+  Aplicação que simula operações bancarias como, criar conta, sacar, depositar e transferir o dinheiro de uma conta cadastrada para outra.
